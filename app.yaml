@@ -1,0 +1,10 @@
+runtime: custom
+vm: true
+module: otp
+api_version: 1
+manual_scaling:
+  instances: 1
+handlers:
+  - url: /.*
+    login: admin
+    script: none
