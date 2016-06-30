@@ -38,7 +38,7 @@ Where `<image-name>` is the name you provided for the image when you built it, a
 
 Then you would need to point your browser to `http:\\localhost:9090` to access the OTP server.
 
-## Deploy to GCloud
+## Deployment to GCloud
 
 Deploying OTP to GClooud requires using the `gcloud` command:
 
