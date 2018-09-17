@@ -24,7 +24,7 @@ In order to run OTP locally you need to build the image and then run it.
 
 For building the image you need to run this command, providing a valid image-name:
 
-`sudo docker build -t <image-name>`
+`sudo docker build -t <image-name> .`
 
 ### Running
 
